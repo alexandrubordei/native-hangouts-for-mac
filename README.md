@@ -3,7 +3,7 @@
 An unoficial google hangouts app for mac that runs in the mac's dock like a regular app but does not require chrome).
 It is built using nativefier which uses electron.
 
-[Download binaries DMG](releases/latest)
+[Download binaries DMG](https://github.com/alexandrubordei/native-hangouts-for-mac/releases/latest)
 
 
 To build:
